@@ -1,10 +1,9 @@
 <?php
 // Database configuration
 $host = "localhost";
-$username = "id18086531_web_exam";
-$password = "X~88marvin559655";
-$database_name = "id18086531_webexam";
-
+$username = "id18088706_root";
+$password = "Jencar08@@87";
+$database_name = "id18088706_systemlogin";
 
 
 // Get connection object and set the charset
